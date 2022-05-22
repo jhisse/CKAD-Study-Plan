@@ -1,4 +1,4 @@
-# CKAD-Study-Plan
+# CKAD Study Plan
 
 ## Addtional resources
 
