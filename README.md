@@ -11,7 +11,7 @@ $ alias k=kubectl
 $ alias ka="k apply -f"
 $ alias kd="k delete --grace-period=0 --force"
 $ alias ko="k --dry-run=client -o yaml"
-$ alias kn=’k config set-context –current –namespace’
+$ alias kn="k config set-context –current –namespace"
 $ echo "set nu et sts=2 ts=2 sw=2 syntax=on" > ~/.vimrc
 ```
 
